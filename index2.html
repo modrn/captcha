@@ -32,6 +32,7 @@ Let us help you create that amazing website you always wanted." />
 
     <script>
         function onSubmit(token) {
+          grecaptcha.execute();
           document.getElementById("signup-form").submit();
         }
       </script>
