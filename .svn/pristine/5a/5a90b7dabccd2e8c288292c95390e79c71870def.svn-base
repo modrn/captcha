@@ -1,0 +1,695 @@
+﻿<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Terms of Use | Power Your Rental</title>
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="title" content="Terms of Use | Power Your Rental">
+    <meta name="description" content="Build a Vacation Rental Website. See first, pay later. Getting your own website has never been easier.
+Let us help you create that amazing website you always wanted." />
+    <meta name="keywords" content="Vacation Rental Website, Hospitality Website, PMS, Property Management System, Website for bookings, Apartment booking website" />
+
+    <!-- For IE 9 and below. ICO should be 32x32 pixels in size -->
+    <!--[if IE]><link rel="shortcut icon" href="favicon.ico"><![endif]-->
+    <!-- IE 10+ "Metro" Tiles - 144x144 pixels in size -->
+    <meta name="msapplication-TileImage" content="favicon144x144.png">
+    <!-- Touch Icons - iOS and Android 2.1+ 152x152 pixels in size. -->
+    <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
+    <!-- Firefox, Chrome, Safari, IE 11+ and Opera. 96x96 pixels in size. -->
+    <link rel="icon" href="favicon96x96.png">
+
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <link rel=stylesheet href="css/bootstrap-lightbox.min.css" />
+    <link rel="stylesheet" type="text/css" href="slick/slick.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/responsive.css" />
+    <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jquery.bootstrapvalidator/0.5.0/css/bootstrapValidator.min.css" />
+</head>
+
+<body>
+    <!-------------contact bar------------>
+    <section id="contact-bar">
+        <div class="container">
+            <div class="wrapper">
+                <ul class="list-inline">
+                    <li><span><span class="glyphicon glyphicon-phone" style="margin-right:5px;"></span>Call us:</span>
+                    </li>
+                    <li><span>Europe:</span><span class="number"> +44 20 3769 0573</span>
+                    </li>
+                    <li><span>USA:</span><span class="number"> +1 646 4320 353</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <!-------------header------------>
+    <div class="header">
+        <div class="navbar navbar-inverse">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse1">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a href="index.html" class="navbar-brand">
+                        <img src="img/header-logo.png" alt="">
+                    </a>
+                </div>
+                <div class="navbar-collapse navbar-collapse1 collapse">
+                    <ul class="nav navbar-nav" style="">
+                        <li><a class="bscroll" href="index.html#template">Templates</a>
+                        </li>
+                        <li><a class="bscroll" href="index.html#feature">Features</a>
+                        </li>
+                        <li><a class="bscroll" href="index.html#why-us">Why Us</a>
+                        </li>
+                        <li><a class="bscroll" href="index.html#customer">Testimonials</a>
+                        </li>
+                        <li><a class="bscroll" href="index.html#pricing">Pricing</a>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">English<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Espanol</a>
+                                </li>
+                                <li><a href="#">Portuguese</a>
+                                </li>
+                                <li><a href="#">Chinese</a>
+                                </li>
+                                <li><a href="#">Francais</a>
+                                </li>
+                                <li><a href="#">Deutsch</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="clearfix"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-lg-offset-1 col-lg-10">
+                    <h1 id="signup">Build a Vacation Rental Website</h1>
+                    <div class="see-info">
+                        <h3>See first, pay later</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!---------body------------>
+    <div class="content">
+        <div class="container">
+            <h2>PRIVACY POLICY</h2> 
+
+            <h5 style='margin-top:0in;margin-right:.05pt;margin-bottom:6.0pt;margin-left:
+0in;text-indent:0in;line-height:12.0pt'><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>This is the privacy policy (&quot;<b>Privacy
+Policy</b>&quot;) that governs how we, </span><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>PowerYourRental Ltd.</span><span style='font-size:
+10.0pt;font-family:"Arial","sans-serif"'> (&quot;<b>PowerYourRental</b>&quot;, &quot;<b>we</b>&quot;,
+&quot;<b>our</b>&quot; or &quot;<b>us</b>&quot;), use Personal Information
+(defined below) that we collect, receive and store about individuals who use (i)
+the website </span><a href="http://www.PowerYourRental.com"><span style='font-size:
+10.0pt;font-family:"Arial","sans-serif"'>www.PowerYourRental.com</span></a><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif"'> (together with its
+subdomains, content and services, the &quot;<b>Site</b>&quot;) and/or </span><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif"'>(ii) the PowerYourRental
+mobile application (the &quot;<b>App</b>&quot;). The Site and App are
+individually and collectively referred to as the &quot;<b>Service</b>&quot;.</span><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif"'>  </span></h5>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><b><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif"'>1.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></b><span dir=LTR></span><b><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>Introduction.  </span></b><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>We have implemented
+this Privacy Policy because your privacy, and the privacy of other Site users,
+is important to us.  We provide this Privacy Policy explaining our online
+information practices and the choices you can make about the way your Personal
+Information is collected and used in connection with the Service and certain
+services that we offer through or in connection with the Site.  “<b>Personal
+Information</b>” means any information that may be used, either alone or in
+combination with other information, to personally identify an individual,
+including, but not limited to, a first and last name, a personal profile, an
+email address, a home or other physical address, or other contact information.</span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><b><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif"'>2.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></b><span dir=LTR></span><b><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>Consent and Modification.  </span></b><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>By using the Service,
+you indicate your consent to the terms of this Privacy Policy and to PowerYourRental's
+processing of Personal Information for the purposes set forth herein.  If you
+do not agree to this Privacy Policy, please do not use the Service.  </span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>We may update this
+Privacy Policy from time to time to reflect changes in privacy law and in our
+privacy practices. Such updates will become effective ten (10) days following
+posting of the revised Privacy Policy on the Site. In addition, we will
+endeavor to send you email notification of any such update prior to such
+effective date. Please note that your continued use of the Service after such
+effective date means that you accept the updated Privacy Policy.</span><b><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif"'> </span></b>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><b><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif"'>3.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></b><span dir=LTR></span><b><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>What Personal Information We Collect and How
+We Collect It.</span></b><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>
+<b> </b></span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>We
+do not currently require you to provide Personal Information in order to have
+access to general information available on the Site.   However, in order for
+you to use certain services and features offered by the Service, </span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>we may  need to receive
+and/or collect information from you in the following ways:</span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>3.1.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span dir=LTR></span><u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Account</span></u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>.  In order to
+provide you with certain services or programs via the Service you may be
+required to create an account (“<b>Account</b>”).</span><span style='font-size:
+10.0pt;font-family:"Arial","sans-serif"'>  </span><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>Y</span><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>ou may be asked to provide us with
+information such as a user name, email address, and </span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>password that you
+will use for your Account. </span><span style='font-size:10.0pt;font-family:
+"Arial","sans-serif";color:black'>We may send an email to your nominated
+external email address to instruct you how to confirm registration of your
+Account.</span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>3.2.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span dir=LTR></span><u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Public
+Profile</span></u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>. 
+Some parts of the Service enable you to build a public profile in connection
+with your Account (&quot;<b>Public Profile</b>&quot;).  Your Public Profile
+will include your user name and, if you so choose, other Personal Information
+that you include, such as your name and profile picture.  You will always be
+able to add or remove such information and content by using the tools that we make
+available as part of the Service.</span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>3.3.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span dir=LTR></span><u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Leads</span></u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>.  The Service
+enables you to submit information about yourself and prospective guests who are
+looking for accommodation (each a &quot;<b>Lead</b>&quot;).  Information that
+is included in a Lead may include a person's name, phone number and/or email
+address.  You may only publish Lead information about another person if you have
+first obtained their express consent for you to do so and provided you comply
+with all applicable privacy laws.</span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>3.4.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span dir=LTR></span><u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Purchases
+and Payments</span></u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>. 
+The Service </span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>may
+include the option to purchase certain products or services from us or to
+withdraw certain credit from your Account.  If you choose to make a purchase or
+withdraw certain credit we will require sufficient information from you to
+complete the transaction.  We may use the tools, software or services of a reputable
+third party service provider (for example, PayPal) to process transactions on
+our behalf, in which case you acknowledge and agree to review and be bound by
+the terms of use and privacy policy of said third party service provider.</span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>3.5.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span dir=LTR></span><u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>'Contact
+Us' Information</span></u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>. 
+If you send us a &quot;Contact Us&quot; request, whether by submitting an
+online form that we make available on the Service or by using an email address
+that we provide, you may be required to provide us with information such as
+your full name, email address and phone number as well as any other Personal
+Information you choose to disclose.  </span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>3.6.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span dir=LTR></span><u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Mailing
+List</span></u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>. 
+If you request to receive brochures, newsletters or other promotional materials
+about our products and services, whether on a one-time or periodic basis, you may
+be required to provide us with your email address</span><span style='font-size:
+10.0pt;font-family:"Arial","sans-serif"'> and other specified information.</span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>3.7.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span dir=LTR></span><u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Refer-A-Friend
+Service</span></u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>. 
+If you choose to participate in our Refer-A-Friend Service then you may need to
+provide us the email addresses of your friends that you wish to refer to the Service
+(each a &quot;<b>Friend</b>&quot;)</span><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>.</span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>3.8.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span dir=LTR></span><u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Log
+Files</span></u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>. 
+</span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>We may
+collect limited information from your mobile device in order to provide the
+Service.  Such information may include your mobile device type, mobile device
+id, and date and time stamps of App use.  In addition, we may deploy tracking
+technologies within the App to help us gather aggregate statistics, but we will
+not use Personal Information for such purposes</span><span style='font-size:
+10.0pt;font-family:"Arial","sans-serif"'>. </span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>3.9.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span dir=LTR></span><u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Cookies
+and Other Tracking Technologies</span></u><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>.  Some of our Site pages utilize
+&quot;cookies&quot; and other tracking technologies.  A &quot;cookie&quot; is a
+small text file that may be used, for example, to collect information about
+Site activity.  Certain cookies and other technologies may serve to recall
+Personal Information previously indicated by a Site user.  Most browsers allow
+you to control cookies, including whether or not to accept them and how to
+remove them.  You may set most browsers to notify you if you receive a cookie,
+or you may choose to block cookies with your browser.</span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><b><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif"'>4.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></b><span dir=LTR></span><b><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>Publicly Available Information.  </span></b>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>4.1.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span dir=LTR></span><u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Public
+Profile</span></u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>. 
+Your Public Profile will be publicly available to other Service users and third
+parties.  You retain the right to decide what information to include in your Public
+Profile.</span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'> 
+You may use the tools that we make available on the Service to change and
+update the information that you have included in your Public Profile.</span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>4.2.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span dir=LTR></span><u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>User
+Submissions (including Leads)</span></u><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>.  The Service may permit you and other users
+to post, publish and transmit information, video, image, data, text, documents,
+and other content (such as Leads and comments) onto public areas of the Service
+(&quot;<b>User Submissions</b>&quot;).  You acknowledge and agree that User
+Submissions will become publicly published content and will be available to
+other Service users and third parties to view.  This is the case even if your
+User Submission contains Personal Information.  Please be aware that you may
+only publish information about another person if you have first obtained their
+express consent for you to do so and provided you comply with all applicable
+privacy laws.  The notices and tools that we provide on the Service should help
+you become aware which User Submissions will be publicly available.</span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><b><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif"'>5.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></b><span dir=LTR></span><u><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>Contact Information</span></u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>.  Please note that
+if you publish your contact information in your Public Profile or a User
+Submission, you may receive unsolicited messages or visits from third parties
+which will be out of our control and which we are not be responsible. We
+therefore encourage you to post and publish only information you are sure you
+want to be accessible to anyone.</span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><b><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif"'>6.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></b><span dir=LTR></span><b><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>The Way We Use Personal Information.  </span></b><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>If you submit or we
+collect Personal Information through the Service, then such Personal
+Information may be used in the following ways:</span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>6.1.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span dir=LTR></span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>We
+will use your Personal Information: (i) to provide and improve our Service and
+services to you, (ii) to contact you in connection with the Service and certain
+products, services, programs, newsletters or any other offerings that you may
+have registered for, and (iii) to identify and authenticate your access to the
+parts of the Service and services that you are authorized to access.  </span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>6.2.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span dir=LTR></span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>We
+may use your designated contact details (such as your email address) to send
+you updates, a newsletter or news regarding the Service and our products and
+services, or </span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>to
+contact you in response to a &quot;Contact Us&quot; request.</span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>6.3.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span dir=LTR></span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>If
+you include Personal Information in a Lead (or any User Submission) then you
+acknowledge that: (i) such Personal Information may be posted to a public area
+of the Service and be generally publicly available; and (ii) we may disclose such
+Personal Information (including contact details) to other Service users. If you
+do not want us to post or disclose such information, please do not include them
+in any Lead or User Submission. </span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>6.4.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span dir=LTR></span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>If
+you choose to invite your Friend(s) to the Service, we may use the contact
+information that you provide us to automatically send your Friend(s) an email
+inviting them to visit the Service.  We may include your name in the invitation
+email.  We will use the contact information for the sole purpose of sending the
+invitation email and tracking whether your Friend registers a Service account
+and uses the Service.</span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'> 
+</span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Your
+Friend may contact us at</span><span style='font-size:10.0pt;font-family:"Arial","sans-serif";
+color:#0070C0'> </span><u><span style='font-size:10.0pt;font-family:"Arial","sans-serif";
+color:blue'>info@@</span></u><a href="mailto:info@PowerYourRental.com"><u><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif";color:blue'>PowerYourRental</span></u></a><u><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif";color:blue'>.com</span></u><span style='font-size:10.0pt;font-family:"Arial","sans-serif";color:#0070C0'> </span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>to request that we do
+not store this contact information or to opt-out from receiving future
+communications</span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>.</span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>6.5.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span dir=LTR></span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>We
+may disclose your Personal Information or any information you submitted via the
+Service if we have a good faith belief that disclosure of such information is
+reasonably necessary to: (i) comply with any applicable law, regulation, legal
+process or governmental request; (ii) enforce our Terms including
+investigations of potential violations thereof; (iii) detect, prevent, or
+otherwise address fraud or security issues; or (iv) protect against harm to the
+rights, property or safety of PowerYourRental, its users, yourself or the public.</span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><b><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif"'>7.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></b><span dir=LTR></span><b><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>Use of Anonymous Information.</span></b><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>  We may use
+Anonymous Information (as defined below) or disclose it to third party service
+providers in order to improve our products and services and enhance your
+experience with the Service.  We may also disclose Anonymous Information (with
+or without compensation) to third parties, including advertisers and partners,
+for purposes including, but not limited to, targeting advertisements. &quot;<b>Anonymous
+Information</b>&quot; means information which does not enable identification of
+an individual user, such as aggregated information about the use of our Service.</span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><b><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif"'>8.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></b><span dir=LTR></span><b><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>Opting-Out.  </span></b><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>At all times,<b> </b></span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>you have the right to
+choose not to receive future promotional, advertising, or other Service-related
+emails from us by selecting an unsubscribe link at the bottom of each email
+that you receive from us.  Please note that even if you opt out of receiving
+the foregoing emails, we may still send you a response to any &quot;Contact
+Us&quot; request as well as administrative emails (for example, in connection
+with a password reset request) that are necessary to facilitate your continued use
+of the Service.</span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><b><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif"'>9.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></b><span dir=LTR></span><b><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>Choice.</span></b><span style='font-size:
+10.0pt;font-family:"Arial","sans-serif"'>  At all times, you may choose whether
+or not to provide or disclose Personal Information.  The notices that we
+provide on the Service in circumstances where we collect Personal Information
+should help you to make this choice.  If you choose not to provide the Personal
+Information we request, you may still visit parts of the Service, but you may
+be unable to access certain options, programs, offers, and services that
+involve our interaction with you.</span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><b><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif"'>10.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></b><span dir=LTR></span><b><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Access/Accuracy. 
+</span></b><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>To
+the extent that you do choose to provide us with Personal Information, PowerYourRental
+wishes to maintain accurate Personal Information.  </span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>You may use the tools
+that we make available on the </span><span style='font-size:10.0pt;font-family:
+"Arial","sans-serif"'>Service </span><span style='font-size:10.0pt;font-family:
+"Arial","sans-serif"'>to remove or modify information in your Account or Public
+Profile.  </span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>If
+you would like to delete or correct any of your other Personal Information that
+we may be storing, you may submit an access request by sending an email to <u><span
+style='color:blue'>info@@</span>
+                </u>
+                </span><a href="mailto:info@PowerYourRental.com"><u><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif";color:blue'>PowerYourRental</span></u></a><u><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif";color:blue'>.com</span></u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>.  Please include
+adequate details of your request. </span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><b><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif"'>11.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></b><span dir=LTR></span><b><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Collection
+of Information by Third-Party Sites.</span></b><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>  We may use a reputable third party to
+present or serve advertisements that you may see on the Service.  These third
+party ad servers may use cookies, web beacons, clear gifs or similar
+technologies to help present such advertisements, and to help measure and
+research the advertisements' effectiveness.  The use of these technologies by
+these third party ad servers is subject to their own privacy policies and is
+not covered by our Privacy Policy.<b> </b></span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><b><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif"'>12.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></b><span dir=LTR></span><b><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Links
+to Other Sites.  </span></b><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>The
+Service may contain links to third party websites that are not owned or
+controlled by PowerYourRental.  If you visit any third party websites via a link on
+the Service, please review the terms and privacy policies of such third party
+websites, as we are not responsible for the privacy practices or the content of
+third party websites. </span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><b><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif"'>13.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></b><span dir=LTR></span><b><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Children's
+Privacy.  </span></b><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>The
+Service is not structured to attract individuals under the age of 13. 
+Accordingly, we do not intend to collect Personal Information from anyone we
+know to be under 13 years of age.  </span><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>.  If we learn that we have collected
+Personal Information from a child under 13 years, we will delete that
+information as quickly as possible. If you believe that we might have any such
+information, please contact us at </span><a href="mailto:info@PowerYourRental.com"><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif"'>info@@PowerYourRental.com</span></a><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>.</span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><b><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif"'>14.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></b><span dir=LTR></span><b><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Security. 
+</span></b><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>The
+security of Personal Information is important to us.  We follow generally
+accepted industry standards, including the use of appropriate administrative,
+physical and technical safeguards, to protect the Personal Information
+submitted to us.  However, no method of transmission over the Internet, or
+method of electronic storage, is 100% secure. Therefore, while we strive to use
+commercially acceptable means to protect your Personal Information, we cannot
+guarantee its absolute security. If you have any questions about security on
+the Service, you can contact us at <u><span style='color:blue'>info@@</span>
+                </u>
+                </span><a href="mailto:info@PowerYourRental.com"><u><span style='font-size:10.0pt;font-family:
+"Arial","sans-serif";color:blue'>PowerYourRental</span></u></a><u><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif";color:blue'>.com</span></u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>.</span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><b><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif"'>15.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></b><span dir=LTR></span><b><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>In
+the Event of Merger, Sale, or Bankruptcy.</span></b><span style='font-size:
+10.0pt;font-family:"Arial","sans-serif"'>  </span><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>If we enter bankruptcy (similar) proceedings
+or are acquired by or merged with a third party, we reserve the right to
+transfer or assign Personal Information to a third party in connection with the
+foregoing event.</span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>
+We will make commercially reasonable efforts to inform you of such transfer or
+assignment by posting notification on the Service and/or sending an email
+notification to your nominated email address.</span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><b><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif"'>16.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></b><span dir=LTR></span><b><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Your
+California Privacy Rights.</span></b><span style='font-size:10.0pt;font-family:
+"Arial","sans-serif"'>  California Civil Code Section 1798.83 permits customers
+of PowerYourRental who are California residents to request certain information
+regarding its disclosure of Personal Information to third parties for their
+direct marketing purposes.  To make such a request, please send an email to <u><span
+style='color:blue'>info@@</span>
+                </u>
+                </span><a href="mailto:info@PowerYourRental.com"><u><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif";color:blue'>PowerYourRental</span></u></a><u><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif";color:blue'>.com</span></u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>.  Please note that
+we are only required to respond to one request per customer each year.<b> </b></span>
+            </p>
+
+            <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
+margin-left:28.35pt;text-indent:-28.35pt;line-height:12.0pt'><b><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif"'>17.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></b><span dir=LTR></span><b><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Commitment. 
+</span></b><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>PowerYourRental
+is committed to protecting your privacy.  Protecting your privacy online is an
+evolving area, and we are constantly evolving our Service to meet these
+demands.  If you have any comments or questions regarding our Privacy Policy,
+please contact us at <u><span style='color:blue'>info@@</span>
+                </u>
+                </span><a href="mailto:info@PowerYourRental.com"><u><span style='font-size:10.0pt;font-family:
+"Arial","sans-serif";color:blue'>PowerYourRental</span></u></a><u><span
+style='font-size:10.0pt;font-family:"Arial","sans-serif";color:blue'>.com</span></u><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>.  </span>
+            </p>
+
+            <p style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;margin-left:0in;
+text-align:justify;text-indent:28.35pt;line-height:12.0pt'><span style='color:windowtext'>Last updated: 28 July 2013</span>
+            </p>
+
+
+
+        </div>
+    </div>
+
+
+
+    <!---------footer nav------------>
+    <div class="bottom-nav">
+        <div class="navbar navbar-inverse">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse2">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="navbar-collapse navbar-collapse2 collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a class="bscroll" href="index.html#template">Templates</a>
+                        </li>
+                        <li><a class="bscroll" href="index.html#feature">Features</a>
+                        </li>
+                        <li><a class="bscroll" href="index.html#why-us">Why Us</a>
+                        </li>
+                        <li><a class="bscroll" href="index.html#customer">Testimonials</a> 
+                        </li>
+                        <li><a class="bscroll" href="index.html#pricing">Pricing</a>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">English<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Espanol</a>
+                                </li>
+                                <li><a href="#">Portuguese</a>
+                                </li>
+                                <li><a href="#">Chinese</a>
+                                </li>
+                                <li><a href="#">Francais</a>
+                                </li>
+                                <li><a href="#">Deutsch</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+    <!------------footer---------------->
+    <div class="footer">
+        <div class="container">
+            <div class="footer-logo">
+                <img src="img/biz-logo.png" alt="">
+            </div>
+            <div class="footer-nav">
+                <ul>
+                    <li><a href="terms.html">Terms of Use</a>
+                    </li>
+                    <li><a href="privacy.html">Privacy Policy</a>
+                    </li>
+                    <!--<li><a href="#">About Us</a></li>-->
+                    <li class="social-icon">
+                        <!--<a href="https://www.facebook.com/PowerYourRental" target="_blank">
+                            <img src="img/fb-icon.png" alt="">
+                        </a>
+                        <a href="#">
+                            <img src="img/twitter-icon.png" alt=""></a>
+                        <a href="#">
+                            <img src="img/link-in.png" alt=""></a>-->
+                    </li>
+                </ul>
+            </div>
+            <div class="copyright">
+                <p>Copyright &copy;2018 All Rights Reserved</p>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+    <script defer src="js/jquery.flexslider.js"></script>
+    <script type="text/javascript" src="slick/slick.min.js"></script>
+    <script type="text/javascript" src="bootstrap/js/bootstrap.js"></script>
+    <script type=text/javascript src="js/bootstrap-lightbox.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.bootstrapvalidator/0.5.0/js/bootstrapValidator.min.js"></script>
+    <script type="text/javascript" src="js/init.js"></script>
+    <script type="text/javascript" src="js/signup.js"></script>
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-38563080-4', 'auto');
+        ga('send', 'pageview');
+    </script>
+</body>
+
+</html>

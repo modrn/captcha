@@ -1,0 +1,306 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+@media (max-width: 990px) {
+    h1 {
+        font-size: 40px !important;
+    }
+    h3 {
+        font-size: 24px !important;
+    }
+    h4 {
+        font-size: 22px;
+    }
+    .navbar-header a img {
+        width: 200px
+    }
+    .quote {
+        padding: 20px 0px;
+    }
+    .quote .quote-info {
+        padding: 0px 20%;
+    }
+    .offer {
+        padding-left: 5%;
+    }
+    .bottom-nav {
+        padding-left: 20%;
+    }
+    .inner-slide {
+        width: 22%;
+    }
+    .templates .template-text {
+        padding: 0px 10%;
+    }
+    .special-features .item .container {
+        padding: 0px 200px;
+    }
+    .customers .carousel-caption {
+        width: 40%;
+    }
+    .customers .item .container {
+        padding: 0px 120px;
+    }
+}
+@media (max-width: 767px) {
+    h1 {
+        font-size: 35px !important;
+    }
+    h3 {
+        font-size: 22px !important;
+    }
+    h4 {
+        font-size: 20px;
+    }
+    p {
+        font-size: 15px !important;
+    }
+    .header h1 {
+        margin-top: 20px;
+    }
+    .nav {
+        padding-bottom: 0px !important;
+    }
+    .navbar-header a img {
+        width: 200px;
+        margin-left: 0px;
+    }
+    .header .navbar-collapse {
+        float: left;
+        width: 100%;
+        margin: 0px 10px 0px 5px !important;
+        background: rgba(253, 254, 255, 0.8);
+    }
+    .header .navbar-collapse ul li a {
+        color: #000;
+    }
+    .header .navbar-collapse ul li:hover {
+        background: #333;
+    }
+    .header .navbar-collapse ul li:hover a {
+        color: #fff;
+    }
+    .features img {
+        width: 90%;
+    }
+    .item .container {
+        padding: 0px 100px;
+    }
+    .why-us .container,
+    .templates .template-text {
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+    .quote .quote-info {
+        padding: 0px 1%;
+    }
+    .slide.double .inner-block {
+        float: none;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .slide.double .testimonials-name {
+        font-size: 16px;
+    }
+    .offer {
+        padding-left: 15%;
+        text-align: center;
+    }
+    .pricing h3 {
+        padding: 0px 5%;
+    }
+    .footer-nav ul li {
+        margin-right: 20px;
+    }
+    .footer-nav ul li a {
+        font-size: 14px;
+    }
+    .bottom-nav {
+        padding-left: 0%;
+    }
+    .bottom-nav .navbar-header button {
+        background: #666;
+    }
+    .inner-slide {
+        width: 40%;
+        margin-bottom: 10px;
+    }
+    .templates .bx-viewport {
+        height: 460px !important;
+    }
+    .templates .bx-next {
+        left: 88% !important;
+    }
+    .templates .bx-wrapper .bx-controls-direction a {
+        top: 35% !important;
+    }
+    .footer {
+        margin-top: 0px;
+    }
+    .templates .slide {
+        margin-left: 30px !important;
+    }
+    .bottom-nav li.dropdown > a,
+    .bottom-nav li.dropdown .caret {
+        color: #333 !important;
+    }
+    .customers .item .container {
+        padding: 0px 130px;
+    }
+    .customers .item .inner-container {
+        margin-right: 0px;
+    }
+    .customers .carousel-caption {
+        width: 100%;
+    }
+    .customers .item .container {
+        padding: 0px 100px;
+    }
+    .carousel-control .icon-prev,
+    .carousel-control .icon-next {
+        top: 40%;
+        height: 30px;
+        width: 30px;
+    }
+    .customers .carousel-control .icon-prev,
+    .customers .carousel-control .icon-next {
+        height: 40px;
+        border-radius: 50%;
+        width: 40px;
+        top: 50%;
+    }
+    .pricing ul li button {
+        padding: 10px 20px;
+    }
+    .slide.other {
+        display: none;
+    }
+    .slide.mobile {
+        display: block;
+    }
+    .bottom-nav {
+        display: none;
+    }
+}
+@media (max-width: 450px) {
+    h1 {
+        font-size: 30px !important;
+    }
+    h3 {
+        font-size: 20px !important;
+    }
+    h4 {
+        font-size: 17px;
+    }
+    p {
+        font-size: 14px !important;
+    }
+    .navbar-header a img {
+        width: 200px;
+    }
+    .bx-wrapper .bx-next {
+        left: 55%;
+    }
+    .bx-wrapper .bx-prev {
+        left: 35% !important;
+    }
+    .slide.double .testimonials-carousel-content {
+        padding: 0px;
+    }
+    .slide.double .testimonials-name {
+        font-size: 14px;
+    }
+    .pricing h3 {
+        padding: 0px;
+    }
+    .offer {
+        padding-left: 6%;
+    }
+    .offer .thumbnails {
+        width: 110px;
+    }
+    .buttons a {
+        padding: 8px 20px;
+        display: block;
+        margin-bottom: 10px;
+    }
+    .thumbnails .property {
+        height: 110px;
+    }
+    .thumbnails .signup a {
+        padding: 10px 5px;
+        font-size: 12px;
+    }
+    .footer-nav ul li {
+        display: block;
+    }
+    .footer-nav ul li.social-icon a.join-label {
+        display: block;
+    }
+    .footer .copyright p {
+        font-size: 12px !important;
+    }
+    .footer .footer-logo img {
+        width: 240px;
+    }
+    .special-features .item .container {
+        padding: 0px 60px;
+    }
+    .customers .item .container {
+        padding: 0px 20px !important;
+    }
+    .customers .carousel-caption > p {
+        padding: 0px;
+    }
+    .customers .slide.mobile p {
+        padding: 0px 10px !important;
+    }
+    .pricing ul li {
+        display: block !important;
+    }
+    .bottom-nav {
+        display: none;
+    }
+}
+@media (max-width: 320px) {
+    .navbar-header a img {
+        width: 150px;
+    }
+    .templates .bx-wrapper .bx-controls-direction a {
+        top: 35% !important;
+    }
+    .templates .bx-prev {
+        display: none;
+    }
+    .templates .bx-next {
+        display: none;
+    }
+    .offer {
+        padding-left: 2%;
+    }
+    .bx-wrapper .bx-next {
+        left: 70%;
+    }
+    .bx-wrapper .bx-prev {
+        left: 38% !important;
+    }
+    .templates .bx-viewport {
+        height: 170px !important;
+    }
+    .templates .slide {
+        margin-left: 15px !important;
+    }
+    .item .container {
+        padding: 0px 30px;
+    }
+    .customers .carousel-caption {
+        width: 80%;
+    }
+    .customers .item .container {
+        padding: 0px 0px !important;
+    }
+    .customers .item .inner-container {
+        margin-left: 45px;
+    }
+}

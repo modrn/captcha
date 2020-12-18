@@ -1,0 +1,1222 @@
+﻿<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Terms of Use | Power Your Rental</title>
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="title" content="Terms of Use | Power Your Rental">
+    <meta name="description" content="Build a Vacation Rental Website. See first, pay later. Getting your own website has never been easier.
+Let us help you create that amazing website you always wanted." />
+    <meta name="keywords" content="Vacation Rental Website, Hospitality Website, PMS, Property Management System, Website for bookings, Apartment booking website" />
+
+    <!-- For IE 9 and below. ICO should be 32x32 pixels in size -->
+    <!--[if IE]><link rel="shortcut icon" href="favicon.ico"><![endif]-->
+    <!-- IE 10+ "Metro" Tiles - 144x144 pixels in size -->
+    <meta name="msapplication-TileImage" content="favicon144x144.png">
+    <!-- Touch Icons - iOS and Android 2.1+ 152x152 pixels in size. -->
+    <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
+    <!-- Firefox, Chrome, Safari, IE 11+ and Opera. 96x96 pixels in size. -->
+    <link rel="icon" href="favicon96x96.png">
+
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <link rel=stylesheet href="css/bootstrap-lightbox.min.css" />
+    <link rel="stylesheet" type="text/css" href="slick/slick.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/responsive.css" />
+    <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jquery.bootstrapvalidator/0.5.0/css/bootstrapValidator.min.css" />
+</head>
+
+<body>
+    <!-------------contact bar------------>
+    <section id="contact-bar">
+        <div class="container">
+            <div class="wrapper">
+                <ul class="list-inline">
+                    <li><span><span class="glyphicon glyphicon-phone" style="margin-right:5px;"></span>Call us:</span>
+                    </li>
+                    <li><span>Europe:</span><span class="number"> +44 20 3769 0573</span>
+                    </li>
+                    <li><span>USA:</span><span class="number"> +1 646 4320 353</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <!-------------header------------>
+    <div class="header">
+        <div class="navbar navbar-inverse">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse1">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a href="index.html" class="navbar-brand">
+                        <img src="img/header-logo.png" alt="">
+                    </a>
+                </div>
+                <div class="navbar-collapse navbar-collapse1 collapse">
+                    <ul class="nav navbar-nav" style="">
+                        <li><a class="bscroll" href="index.html#template">Templates</a>
+                        </li>
+                        <li><a class="bscroll" href="index.html#feature">Features</a>
+                        </li>
+                        <li><a class="bscroll" href="index.html#why-us">Why Us</a>
+                        </li>
+                        <li><a class="bscroll" href="index.html#customer">Testimonials</a>
+                        </li>
+                        <li><a class="bscroll" href="index.html#pricing">Pricing</a>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">English<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Espanol</a>
+                                </li>
+                                <li><a href="#">Portuguese</a>
+                                </li>
+                                <li><a href="#">Chinese</a>
+                                </li>
+                                <li><a href="#">Francais</a>
+                                </li>
+                                <li><a href="#">Deutsch</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="clearfix"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-lg-offset-1 col-lg-10">
+                    <h1 id="signup">Build a Vacation Rental Website</h1>
+                    <div class="see-info">
+                        <h3>See first, pay later</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!---------body------------>
+    <div class="content">
+        <div class="container">
+            <h2>TERMS OF USE</h2>
+            <p class="MsoNormal" style='margin-top: 6.0pt; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 0in; line-height: 12.0pt'>
+                <span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Welcome to the PowerYourRental service. Please read the
+following Terms of Use (“<b>Terms</b>”) carefully before using this service so
+that you are aware of your legal rights and obligations with respect to <span
+    style='color: black'>PowerYourRental Ltd.</span> (&quot;<b>PowerYourRental</b>&quot;, &quot;<b>we</b>&quot;, &quot;
+                <b>our</b>&quot; or &quot;<b>us</b>&quot;). These Terms govern your use of the services provided by PowerYourRental via (i)</span><a href="http://www.PowerYourRental.com"><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>www.PowerYourRental.com</span></a><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'> (together with its
+subdomains, the “<b>Site</b>”); and (ii) to the extent that such use is not
+covered by a separate end user license agreement entered into between you and PowerYourRental,
+the PowerYourRental mobile application (the &quot;<b>App</b>&quot;). The Site and App
+are individually and collectively referred to as the &quot;<b>Service</b>&quot;.<o:p></o:p></span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>1.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span></span></b>
+                <![endif]><span dir="LTR"></span><b><span
+            style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>Background.<span style='mso-spacerun: yes'>  </span></span></b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>The Service is intended to </span><span style='font-size: 10.0pt; font-family: "Tahoma","sans-serif"'>assist hotels and vacation rentals transform
+no vacancy rejections into revenue, by providing a real-time lead marketplace
+and online booking service</span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>. <b>
+    <o:p></o:p>
+</b></span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>2.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span></span></b>
+                <![endif]><span dir="LTR"></span><b><span
+            style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>Consent and Modification.<span style='mso-spacerun: yes'>  </span></span></b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>By visiting or using
+this Service, you signify your assent to these Terms.<span
+    style='mso-spacerun: yes'>  </span>These Terms apply to all users of the Service.<span style='mso-spacerun: yes'>  </span>If you do not agree to these Terms then please do not access or otherwise use the Service.<span style='mso-spacerun: yes'>  </span>We reserve the right, at our discretion, to change these Terms at any time.<span style='mso-spacerun: yes'>  </span>Such change will be effective ten (10) days following posting of the revised Terms on the Site, and your continued use of the Service thereafter means that you accept those changes.</span><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'><o:p></o:p></span></b>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>3.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span></span></b>
+                <![endif]><span dir="LTR"></span><b><span
+            style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Ability to Accept Terms.</span></b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'><span
+                    style='mso-spacerun: yes'>  </span>The Service is intended only <span class="apple-style-span">for individuals aged eighteen (18) years or older.<span
+                            style='mso-spacerun: yes'>  </span>If you are under the age of 18, please do not visit or use the Service.<span style='mso-spacerun: yes'>  </span></span>
+                </span><b><span
+    style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>
+    <o:p></o:p>
+</span></b>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>4.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span></span></b>
+                <![endif]><span dir="LTR"></span><b><span
+            style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Service Access.</span></b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'><span
+                    style='mso-spacerun: yes'>  </span>For such time as these Terms are in effect, we hereby grant you permission to visit and use the Service provided that you comply with these Terms and applicable law.</span><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'><o:p></o:p></span></b>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>5.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span></span></b>
+                <![endif]><span dir="LTR"></span><b><span
+            style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Restrictions.</span></b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'><span
+                    style='mso-spacerun: yes'>  </span>You shall not: (i) copy, distribute or modify any part of the Service without our prior written authorization; (ii) use, modify, create derivative works of, transfer (by sale, resale, license, sublicense, download or otherwise), reproduce, distribute, display or disclose Content (defined below), except as expressly authorized herein; (iii) disrupt servers or networks connected to the Service; (iv) use or launch any automated system (including without limitation, &quot;robots&quot; and &quot;spiders&quot;) to access the Service; (v) circumvent, disable or otherwise interfere with security-related features of the Service or features that prevent or restrict use or copying of any Content or that enforce limitations on use of the Service; (vi) remove, alter or obscure any proprietary notice or identification, including copyright, trademark, patent or other notices, contained in or displayed on the Service; (vii) use the PowerYourRental name, logo or trademarks without our prior written consent; and/or (viii) use the Service to violate any applicable laws, rules or regulations, or for any unlawful, harmful, irresponsible, or inappropriate purpose, or in any manner that breaches these Terms.<span style='mso-spacerun: yes'>  </span></span><b><span
+    style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>
+    <o:p></o:p>
+</span></b>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>6.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span></span></b>
+                <![endif]><span dir="LTR"></span><b><span
+            style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Account.</span></b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'> <span
+                    style='mso-spacerun: yes'></span>In order to use some of the services of the Service, you may have to create an account (&quot;<b>Account</b>&quot;).<span style='mso-spacerun: yes'>  </span>You agree not to create an Account for anyone else or use the account of another without their permission.<span style='mso-spacerun: yes'>  </span>When creating your Account, you must provide accurate and complete information.<span style='mso-spacerun: yes'>  </span>You are solely responsible for the activity that occurs in your Account, and you must keep your Account password secure.<span style='mso-spacerun: yes'> 
+</span>You must notify PowerYourRental immediately of any breach of security or unauthorized use of your Account.<span style='mso-spacerun: yes'>  </span>As between you and PowerYourRental, you are solely responsible and liable for the activity that occurs in connection with your Account.<span style='mso-spacerun: yes'>  </span>If you wish to delete your Account you may send an email request to PowerYourRental at</span><a href="mailto:info@PowerYourRental.com"><span
+    style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>info@PowerYourRental.com</span></a><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>.</span><b><span
+            style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'><span style='mso-spacerun: yes'>  </span></span></b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>Any Service user, including yourself, who registers an Account is
+referred to in these Terms as a &quot;<b>Registered User</b>&quot;.<b>
+    <o:p></o:p>
+</b></span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>7.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span></span></b>
+                <![endif]><span dir="LTR"></span><b><span
+            style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>Publishing and Selling Referrals.</span></b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'> <b>
+                <o:p></o:p>
+            </b></span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>7.1.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>The Marketplace
+Service</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>. If you<b> </b>are a Registered User and you<b> </b>become
+aware of a person (&quot;<b>Prospective Guest</b>&quot;) that is looking for a
+hotel or vacation rental reservation (each, a &quot;<b>Referral</b>&quot;) then
+you may publish the Referral on the Service. Other Registered Users may then
+purchase such Referral via the Service.</span><span style='font-size: 10.0pt; mso-bidi-font-size: 11.0pt; font-family: "Arial","sans-serif"; mso-bidi-font-family: David'> </span><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'><span style='mso-spacerun: yes'></span>
+    <o:p></o:p>
+</span></b>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>7.2.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>The
+Overbooking Service</span></u><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>. </span></b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>PowerYourRental may offer a service that allows Registered Users to sell Referrals
+through a reverse auction (the &quot;<b>Overbooking Service</b>&quot;), in
+which other Registered Users may submit offers to purchase such Referrals
+within a set timeframe. Following expiration of such timeframe, the publisher
+of the Referral may select an offer by sending a message via the Service to the
+Registered User who submitted such offer, and such Registered User shall be
+deemed to have purchased the Referral upon transmission of such message. For
+clarity, if you submit an offer on the Overbooking Service, such offer shall be
+binding as of submission. If you<b> </b>are a Registered User, you must first
+contact us at </span><a href="mailto:info@PowerYourRental.com"><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>info@PowerYourRental.com</span></a><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'> to request to join and receive approval.<b><o:p></o:p></b></span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>7.3.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>Prospective
+Guest Consent</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>. You may only publish a Referral on the Service if
+you have obtained the permission of the Prospective Guest to do so.<span
+    style='mso-spacerun: yes'>  </span>You represent and warrant that you:<b> </b>(i)<b>
+    </b>
+                </span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>have
+obtained all required consents from the Prospective Guest to use his or her Prospective
+Guest Data (defined below) in connection with the Service and publishing and
+selling the Referral on the Service; (ii) expressly informed the Prospective
+Guest, and obtained his or her express consent, that Registered Users, and
+third parties, may contact the Prospective Guest in connection with the Referral;
+and (iii) informed the Prospective Guest that we will use any personally
+identifiable information about them that we obtain, including any Prospective
+Guest Data, in accordance with our Privacy Policy (defined below).<span
+    style='mso-spacerun: yes'>  </span>&quot;<b>Prospective Guest Data</b>&quot; means information, including personally identifiable information</span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>, about a Prospective Guest that that you, or any other Registered User,
+include in a Referral. <b>
+    <o:p></o:p>
+</b></span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>7.4.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>Prospective
+Guest Disclaimer</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>. Without derogating from section 7.3 above, if you
+send an email or fax to the Prospective Guest then it must include the
+following statement: &quot;You acknowledge and agree that we will collect
+certain personally identifiable information about you, such as your name, phone
+number and email address.<span style='mso-spacerun: yes'>  </span>We will publish such information on</span><a href="http://www.PowerYourRental.com"><span
+    style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>www.PowerYourRental.com</span></a><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>.<span
+        style='mso-spacerun: yes'>  </span>Third parties may obtain your contact information and contact you to offer you reservations for hotels, vacation rentals or other types of acommodation.<span style='mso-spacerun: yes'> 
+</span>If you don't agree to any of the foregoing, please don't provide your name or contact information.&quot;
+                <o:p></o:p>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>7.5.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-bidi-font-weight: bold'>Responsibility</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-bidi-font-weight: bold'>. You agree not to undertake any activity in connection with a Referral
+or a Prospective Guest that </span><span style='font-size: 10.0pt; mso-bidi-font-size: 11.0pt; font-family: "Arial","sans-serif"'>creates a negative image of PowerYourRental.</span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-bidi-font-weight: bold'><span style='mso-spacerun: yes'>  </span>You remain solely responsible and liable for: (i) your interaction and relationship with each Prospective Guest; and (ii) any Prospective Guest Data that you include in a Referral,</span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>and you agree to hold
+us harmless, and expressly release us, from any and all liability arising from the
+foregoing and: (a) our use of any <span style='mso-bidi-font-weight: bold'>Prospective
+Guest Data; </span>and (b) any claim by a Prospective Guest that you were not authorized or permitted to use their <span style='mso-bidi-font-weight: bold'>Prospective
+Guest Data in connection with the Referral and the Service.<span
+    style='mso-spacerun: yes'>  </span></span>
+                </span><span style='font-size: 11.0pt; mso-bidi-font-family: "Times New Roman"'><span
+        style='mso-spacerun: yes'></span></span><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>
+            <o:p></o:p>
+        </span></b>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>8.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span></span></b>
+                <![endif]><span dir="LTR"></span><b><span
+            style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>Viewing and Buying Referrals.</span></b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'><span
+                style='mso-spacerun: yes'>  </span><b>
+                    <o:p></o:p>
+                </b>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>8.1.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>Viewing a Referral</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>.<span style='mso-spacerun: yes'>  </span>Any Service user may view general information about a Referral on the Service.<span style='mso-spacerun: yes'>  </span>Registered Users may view additional information about a Referral.<span style='mso-spacerun: yes'>  </span>Only the purchaser of the Referral will be able to view the entire Referral.<span style='mso-spacerun: yes'>  </span><b>
+        <o:p></o:p>
+    </b>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>8.2.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>Buying a Referral</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>.<span style='mso-spacerun: yes'>  </span>If you are a Registered User then you may use your Credit (defined below) to buy Referrals via the Service.<span style='mso-spacerun: yes'>  </span>The purchase price for the Referral is displayed on the Service.</span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>All amounts are exclusive of all taxes, levies, or
+duties, which are your responsibility.</span><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>
+    <o:p></o:p>
+</span></b>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>8.3.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Your Use of a Purchased Referral.</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'><span
+                style='mso-spacerun: yes'>  </span>If you purchase a Referral then you will be provided with certain Prospective Guest Data, including contact information, in connection with a Prospective Guest.<span style='mso-spacerun: yes'>  </span>You may only use the Prospective Guest Data in connection with the Referral and making or attempting to make a Booking (defined below) and you agree not to use the Prospective Guest Data for any other purpose.<span style='mso-spacerun: yes'>  </span>If you purchase a Referral, then you: (i) must comply with all applicable laws (including, without limitation, privacy laws); (ii) are solely responsible for your interaction and relationship with the Prospective Guest; and (iii) agree to indemnify and hold us harmless, and expressly release us, from any and all liability arising from the foregoing.</span><b><span
+    style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>
+    <o:p></o:p>
+</span></b>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>9.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span></span></b>
+                <![endif]><span dir="LTR"></span><b><span
+            style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>Commissions and Fees.<o:p></o:p></span></b>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>9.1.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>Selling Referrals</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>.<b> </b>If: (i) you sell a Referral on the Service to another
+Registered User; and/or (ii) another Registered User purchases your Referral
+and uses it to make a Booking (defined below) via our Booking Service (defined
+below), then you may be entitled to have a certain amount of Credit added to
+your Account (&quot;<b>Commission</b>&quot;).<span style='mso-spacerun: yes'> 
+</span>The amounts of the Commissions, as well as the different options for obtaining a Commission, are displayed on the Service.<b><o:p></o:p></b>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>9.2.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>Buying Referrals</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>. If: (i) you purchase a Referral on the Service from another Registered
+User; and/or (ii) You purchase a Referral from another Registered User and use
+it to make a Booking (defined below) via our Booking Service (defined below),
+then you will be charged a certain amount as a Commission as well as a
+transaction fee payable to PowerYourRental (“<b>Fee</b>”) against your Credit for each
+transaction in amounts as displayed on the Site at PowerYourRental.com/info/rules.<span
+    style='mso-spacerun: yes'>  </span>The amounts of such Commissions and Fees are displayed on the Site. Without limiting the foregoing, if your offer to purchase a Referral on the Overbooking Service is selected by the Registered User that published such Referral, you will be charged a Fee as displayed on the Site.<b><o:p></o:p></b>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>10.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span></span></b>
+                <![endif]><span dir="LTR"></span><b><span
+            style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>Credit.</span></b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'><span style='mso-spacerun: yes'>  </span><b>
+                <o:p></o:p>
+            </b>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>10.1.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>General</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>.<span
+                    style='mso-spacerun: yes'>  </span>Payments are made to you and by you on a rolling credit basis, such that you may use credit that has accrued in your Account in accordance with these Terms (&quot;<b>Credit</b>&quot;), to purchase certain products and services via the Service, including Referrals. If at the end of a calendar month, you owe Fees to PowerYourRental (such that your credit balance is negative), PowerYourRental will send you an invoice for the applicable amount, which you must pay within thirty (30) days of such invoice.<span style='mso-spacerun: yes'>  </span>
+                <o:p></o:p>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>10.2.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Types of Credit</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>.<span
+                    style='mso-spacerun: yes'>  </span>The Service offers different ways to accrue Credit in connection with your Account.<span style='mso-spacerun: yes'> 
+</span>The Credit types may include: (i) Commissions; (ii) Purchased Credit; and (iii) Booking Credit (defined below).
+                <o:p></o:p>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>10.3.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Buying Credit</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>.<span
+                    style='mso-spacerun: yes'>  </span>The Service may include an online store where Registered Users can buy credit to purchase certain products and services via the Service, including Referrals (&quot;<b>Purchased</b>  <b>Credit</b>&quot;).<b><span
+    style='mso-spacerun: yes'>  </span></b>The<b> </b>prices for<b> </b>Purchased<b>
+    </b>Credit, and the different Purchased<b> </b>Credit packages which are for sale, are displayed on the Site.<span style='mso-spacerun: yes'>  </span>If you choose to buy Purchased Credit via the Site, you acknowledge and agree: (i) that we (or one of our service providers) may</span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>charge your
+credit card for the purchase or subscription (including, as applicable, </span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>for recurring charges
+such as monthly or other types of periodic payments)</span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'> and such other amounts (including any taxes and late fees, as
+applicable) that may accrue in connection with the purchase or subscription; </span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>(ii) to only provide
+valid and current information for (a) yourself, or (b) another person, but only
+if you have first obtained their express consent to do so; (iii) that we may
+use the tools, software or services of third party service providers to process
+transactions on our behalf; (iv) that prices for the Purchased Credit may
+change at any time; (v) that, except as expressly set forth herein, all
+purchases and subscriptions are final and non-cancellable or non-refundable;
+and (vi) if payment is not received by us for any reason from your card issuer,
+you agree to promptly pay all amounts due to us upon demand.<span
+    style='mso-spacerun: yes'>  </span>
+                <o:p></o:p>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>10.4.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>Booking
+Credit</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>.<span style='mso-spacerun: yes'>  </span>If you make a Booking via the Booking Service then you may be entitled to have a certain amount of Credit added to your Account (&quot;<b>Booking Credit</b>&quot;).<span style='mso-spacerun: yes'>  </span>The amount of the Booking Credit is displayed on the Site.</span><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'><o:p></o:p></span></b>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>10.5.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Using Credit</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>.<span
+                    style='mso-spacerun: yes'>  </span>You may: (i) use any Credit that has accrued in your Account to purchase Referrals; and (ii) withdraw the cash value of Credit from your Account as described below in the Section entitled '<i>Withdrawal
+of Credit</i>'.<span style='mso-spacerun: yes'>  </span><b>
+    <o:p></o:p>
+</b>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>10.6.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Withdrawal of Credit</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>.<span
+                    style='mso-spacerun: yes'>  </span><b>
+                        <o:p></o:p>
+                    </b>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 56.7pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l2 level1 lfo17'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-bidi-font-weight: bold'><span style='mso-list: Ignore'>(i)<span
+                style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>You may, no more than once per
+calendar month, request to withdraw the cash value of any Credit that is then accruing
+in your Account by using one of the payment withdrawal methods that we display
+on the Site <span style='mso-spacerun: yes'></span>(each a &quot;<b>Withdrawal
+Method</b>&quot;).<span style='mso-spacerun: yes'>  </span>If you wish to withdraw any Credit: (i) you must be able to receive payments via your designated Withdrawal Method and you must provide us (or our third party payment service provider) with the necessary information to facilitate the transaction; and (ii) the amounts of the Credit that you wish to withdraw and cash-in must exceed the threshold amount (&quot;<b>Minimum Withdrawal Amount</b>&quot;) that is then being displayed on the Site (for example purposes only, the Minimum Withdrawal Amount may be US$50).<span style='mso-spacerun: yes'>  </span>Please note that in order to withdraw Credit, you may need to have, and may need to be signed-in to, an existing account with your designated Withdrawal Method.<b><o:p></o:p></b>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 56.7pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l2 level1 lfo17'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-bidi-font-weight: bold'><span style='mso-list: Ignore'>(ii)<span
+                style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>If you wish to withdraw any unutilized
+Credit following the termination of these Terms then you must send us an email
+request to </span><a href="mailto:info@PowerYourRental.com"><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>info@PowerYourRental.com</span></a><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'> which includes your
+user name and Account balance.<span style='mso-spacerun: yes'>  </span>You acknowledge that any Credit that is not withdrawn within thirty (30) days (or the minimum period required by applicable law) following termination of these Terms will be forfeited.<b><o:p></o:p></b>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 56.7pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l2 level1 lfo17'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span style='mso-list: Ignore'>(iii)<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>You agree that we may charge you, and
+you shall pay, any third party service fees that are related to the withdrawal
+of Credit from your Account.
+                <o:p></o:p>
+            </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>11.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span></span></b>
+                <![endif]><span dir="LTR"></span><b><span
+            style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>Online Bookings.<span style='mso-spacerun: yes'>  </span>
+            <o:p></o:p>
+        </span></b>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>11.1.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+        </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>We
+may offer a booking service on the Service (&quot;<b>Booking Service</b>&quot;)
+which allows you to<b> </b>make a hotel or vacation rental reservation for the
+Prospective Guest based on a Referral you purchased (each a &quot;<b>Booking</b>&quot;).<b><span
+    style='mso-spacerun: yes'>  </span>
+                </b>You may only make a Booking if you have obtained the express consent of the Prospective Guest to do so.<b>
+    <o:p></o:p>
+</b>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>11.2.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+        </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>If you use
+the Booking Service to book a hotel or vacation rental then you may be required
+to: (i) pay a booking fee, the price of which will be displayed on the Site, to
+secure the hotel or vacation rental reservation (&quot;<b>Booking Fee</b>&quot;);
+(ii) provide contact information for the guest (&quot;<b>Guest</b>&quot;); (iii)
+provide certain passport information of the Guest, such as the passport number
+and country of issuance; (iv) provide a credit card number to pay the Booking
+Fee and/or secure the reservation; and (v) provide other information that we
+may request on the Service to make the reservation. <span
+    style='mso-spacerun: yes'></span>W</span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>e may use the tools, software or services of
+third party service providers to process Bookings on our behalf</span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>.<span style='mso-spacerun: yes'>  </span>The Booking Fee is non-cancelable and non-refundable. <b>
+    <o:p></o:p>
+</b>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>11.3.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+        </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>The Booking
+Fee</span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>, until
+paid, is subject to change from time to time, as displayed on the Site.<span
+    style='mso-spacerun: yes'>  </span>Payment of the Booking Fee will be made in the currency designated on the Site at the time of payment.<span style='mso-spacerun: yes'>  </span></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>If you pay a Booking
+Fee then you acknowledge and agree that the balance between the amount of the Booking
+Fee and the rate that the hotel or vacation rental owner or administrator (the
+&quot;<b>Owner</b>&quot;) charges for the Booking will still need to be paid,
+and you or the Guest are solely responsible for making such payment to the
+Owner.<span style='mso-spacerun: yes'>  </span><b>
+    <o:p></o:p>
+</b>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>11.4.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+        </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>If you
+provide the credit card or passport information, or any other personal
+information, about a Guest, you must obtain their express consent to do so.<span
+    style='mso-spacerun: yes'>  </span>You must comply with all applicable laws (including without limitation privacy laws) and first inform the Guest that their personal information may be disclosed to PowerYourRental, the Owner, and any third party service providers that PowerYourRental or the Owner engages to perform services on its behalf.<span style='mso-spacerun: yes'>  </span><span style='mso-spacerun: yes'></span></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'><span style='mso-spacerun: yes'></span></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>
+        <o:p></o:p>
+    </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>11.5.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+        </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>You
+acknowledge and agree that: (i) you and the Guest are solely responsible and
+liable for the Booking; (ii) we do not make any representation, warranty, or
+endorsement about the hotel or vacation rental which you are reserving or
+attempting to reserve, or whether or not the hotel or vacation rental will meet
+your needs or the needs of any Guest; (iii) we do not represent or warrant or
+commit that the hotel or vacation rental will honor the Booking; (iv) you are
+solely responsible for choosing a hotel or vacation rental and verifying that
+it meets your needs or the needs of any Guest(s); and (v) each Booking is
+between you, the Guest(s) and the Owner of the hotel or vacation rental only and
+PowerYourRental is not a party to the transaction.<span style='mso-spacerun: yes'> 
+</span><b>
+    <o:p></o:p>
+</b>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>11.6.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+        </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>If you make
+a Booking then you and the Guest will become subject to any terms and
+conditions, including any privacy policy, that the Owner designates in
+connection with its hotel or vacation rental and the Booking (collectively, &quot;<b>Owner
+Terms</b>&quot;).<span style='mso-spacerun: yes'>  </span>You and the Guest are solely responsible for reviewing and complying with any Owner Terms.
+                <o:p></o:p>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>11.7.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+        </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>If a Booking
+is made then you or the Guest, but not PowerYourRental, is solely responsible and
+liable for: (i) the Guest's stay in the hotel or apartment and the Guest's interaction
+and relationship with the hotel or vacation rental Owner and staff; (ii) paying
+any hotel or vacation rental rates, charges or fees in connection with the
+reservation (including, without limitation, any bar, restaurant, room-service
+or any charges which the hotel or vacation rental may charge in connection with
+the Booking and the Guest's stay); (iii) paying any damages to the hotel or vacation
+rental which arise as a result of the Guest(s) stay in the hotel or vacation
+rental; and (iv) traveling to and from the hotel or vacation rental and all of
+the costs and expenses in connection thereto.<span style='mso-spacerun: yes'> 
+</span>For the avoidance of doubt if you make a reservation for yourself, then you are considered a &quot;Guest&quot; for the purpose of these Terms. <span style='mso-spacerun: yes'></span>Please be aware that the Owner may impose a cancellation fee or charge if you or the Guest cancel or change the Booking, which you or the Guest are solely responsible and liable to pay.<span style='mso-spacerun: yes'>  </span></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>You agree to indemnify and hold us harmless,
+and expressly release us, from any and all liability arising from any of the
+foregoing</span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'> set forth in this Section 11.7.<b><o:p></o:p></b></span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>12.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span></span></b>
+                <![endif]><span dir="LTR"></span><b><span
+            style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>Booking Charge.<span style='mso-spacerun: yes'>  </span></span></b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>If you are an Owner and a Booking is made with your hotel or vacation
+rental via the Booking Service then you agree to pay PowerYourRental a certain
+percentage of the room rate that you charge the Guest for their Booking (&quot;<b>Booking
+Charge</b>&quot;).<span style='mso-spacerun: yes'>  </span>The Booking Charge percentage is displayed on the Site.<b><span style='mso-spacerun: yes'>  </span></b>We may deduct the Booking Charge from the Booking Fee.<b><o:p></o:p></b>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>13.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span></span></b>
+                <![endif]><span dir="LTR"></span><b><span
+            style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>Payments to PowerYourRental.</span></b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'><span
+                style='mso-spacerun: yes'>  </span><b>
+                    <o:p></o:p>
+                </b>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; color: #222222'><span
+            style='mso-list: Ignore'>13.1.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>General</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>.<span
+                    style='mso-spacerun: yes'>  </span>Except as expressly set forth in the Terms, your general right to access the Service hereunder is currently for<span dir="RTL"></span><span dir="RTL"><span dir="RTL"></span> </span>free, but PowerYourRental may in the future charge a fee for certain access or usage.<span style='mso-spacerun: yes'> 
+</span>You will not be charged for any such access or use of the Service unless you first agree to such charges, but please be aware that any failure to pay applicable charges may result in you not having access to some or all of the Service.<span style='color: #222222'><o:p></o:p></span></span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; color: #222222'><span
+            style='mso-list: Ignore'>13.2.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Refund Policy</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>. You acknowledge and
+agree that, except as expressly set forth herein, any fees and/or payments paid
+by you to <span style='color: #222222'>PowerYourRental </span>in connection with your use of the Service and any services that we offer, including without limitation the Booking Service, are non-refundable.<span style='mso-spacerun: yes'> 
+</span>Notwithstanding the foregoing:<b><span style='color: #222222'><o:p></o:p></span></b>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: .85in; text-indent: -.35in; line-height: 12.0pt; mso-list: l13 level3 lfo12; tab-stops: list .85in'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; color: #222222'><span
+            style='mso-list: Ignore'>13.2.1.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; color: #222222'>If you have purchased a Referral</span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>, and the corresponding reservation is cancelled prior to the applicable
+check-in time</span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; color: #222222'>, you may submit, via your Account, a request for a refund of
+amounts paid for such Referral, along with adequate documentation of the
+cancellation. PowerYourRental will respond to such requests within reasonable time. If
+PowerYourRental is satisfied that you are entitled to a refund, you will be credited the
+Commission amount paid for the applicable Referral. In addition, you will be
+credited the Fee amount paid to PowerYourRental for such Referral, but solely if the
+refund request is submitted prior to the earlier of: (a) the date for which the
+Referral reservation was made; or (b) the applicable refund deadline. The
+deadlines applicable to each Referral you have purchased can be viewed on your
+Account.<span style='mso-spacerun: yes'>  </span><b><span style='background: yellow; mso-highlight: yellow'><span style='mso-spacerun: yes'></span></span></b>
+                <o:p></o:p>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: .85in; text-indent: -.35in; line-height: 12.0pt; mso-list: l13 level3 lfo12; tab-stops: list .85in'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; color: #222222'><span
+            style='mso-list: Ignore'>13.2.2.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>If a hotel or vacation rental that you
+have made a Booking with, via the Booking Service, does not honor the Booking
+then we may, in our sole discretion and as your sole remedy and our sole
+liability, refund you the amount of the Booking Fee that you actually paid for
+that Booking.<span style='mso-spacerun: yes'>  </span>You may send a refund request to us via email at</span><a href="mailto:info@PowerYourRental.com"><span
+    style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>info@PowerYourRental.com</span></a><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>.<span
+            style='mso-spacerun: yes'>  </span>Please be aware that we will not consider any refund request unless you include full details of the disputed transaction, including the relevant dates, payment details, and a short explanation as to why the refund is requested.<span style='mso-spacerun: yes'>  </span><b><span
+    style='color: #222222'>
+    <o:p></o:p>
+</span></b>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>14.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span></span></b>
+                <![endif]><span dir="LTR"></span><b><span
+            style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Intellectual Property
+Rights.</span></b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'><span
+    style='mso-spacerun: yes'>  </span></span><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>
+        <o:p></o:p>
+    </span></b>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>14.1.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+        </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Content and Marks</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>.<span
+                style='mso-spacerun: yes'>  </span>The: (i) text, documents, articles, brochures, descriptions, graphics, photos, sounds, videos and interactive features on the Service (collectively, the &quot;<b>Materials</b>&quot;), (ii) Service products, services and Software (collectively, &quot;<b>Software</b>&quot;); (iii) User Submissions, as defined below (and together with the Materials and Software, the &quot;<b>Content</b>&quot;), and (iv) the trademarks, service marks and logos contained therein (&quot;<b>Marks</b>&quot;), are the property of PowerYourRental and/or its licensors and may be protected by applicable copyright or other intellectual property laws and treaties.<span style='mso-spacerun: yes'>  </span>“PowerYourRental”, the PowerYourRental logo, and other marks are Marks of PowerYourRental or its affiliates.<span style='mso-spacerun: yes'> 
+</span>All other trademarks, service marks, and logos used on the Service are the trademarks, service marks, or logos of their respective owners.<span style='mso-spacerun: yes'>  </span>We reserve all rights not expressly granted in and to the Service and the Content.<span style='mso-spacerun: yes'>  </span></span><b><span
+    style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>
+    <o:p></o:p>
+</span></b>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; mso-fareast-language: EN-US'><span style='mso-list: Ignore'>14.2.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+        </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Use of Content</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>.<span
+                style='mso-spacerun: yes'>  </span>Content on the Service is provided to you on an 'as is' and 'as available' basis for your information and personal use only (including to buy and sell Referrals and to make Bookings, but solely through the Service) and may not be used, modified, copied, distributed, transmitted, broadcast, displayed, sold, licensed, de-compiled, or otherwise exploited for any other purposes whatsoever without our prior written consent. <span style='mso-spacerun: yes'></span>If you download or print a copy of the Content you must retain all copyright and other proprietary notices contained therein.</span><b><span
+    style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>
+    <o:p></o:p>
+</span></b>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 0in 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; color: #222222'><span style='mso-list: Ignore'>15.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </span></span></span></b>
+                <![endif]><span dir="LTR"></span><b><span
+            style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>User Submissions<span
+                style='color: #222222'>.</span></span></b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; color: #222222'><o:p></o:p></span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 0in 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>15.1.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Responsibility</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>.<span
+                    style='mso-spacerun: yes'>  </span>The Service may permit the submission, hosting, sharing and publishing of Content by you and other users (&quot;<b>User
+Submissions</b>&quot;).<span style='mso-spacerun: yes'>  </span>You acknowledge that each Referral shall be considered a User Submission.<b><span
+    style='mso-spacerun: yes'>  </span></b>You understand that whether or not such User Submissions are published, we do not guarantee any confidentiality with respect to any User Submissions.<span style='mso-spacerun: yes'>  </span>You shall be solely responsible for your User Submissions and the consequences<b> </b>of posting, publishing or uploading them.<span style='mso-spacerun: yes'> 
+</span>We have complete discretion whether to publish your User Submissions and we reserve the right in our sole discretion and without further notice to you, to monitor, censor, edit, remove, delete, and/or remove any and all Content posted on the Service (including User Submissions) at any time and for any reason.
+                <o:p></o:p>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 0in 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>15.2.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Ownership</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>.<span
+                    style='mso-spacerun: yes'>  </span>You represent and warrant that you own or have the necessary rights and permissions to use and authorize PowerYourRental to use all Intellectual Property Rights (defined below) in and to your User Submissions, and to enable inclusion and use thereof as contemplated by the Service and these Terms.<span style='mso-spacerun: yes'>  </span>Unless the User Submissions are separately referred to, all references herein to Content shall include references to User Submissions.<span style='mso-spacerun: yes'>  </span>&quot;<b style='mso-bidi-font-weight: normal'>Intellectual Property Rights</b><span style='mso-bidi-font-weight: bold'>&quot;</span> means any and all rights, titles and interests, whether foreign or domestic, in and to any and all trade secrets, patents, copyrights, service marks, trademarks, know-how, or similar intellectual property rights, as well as any and all moral rights, rights of privacy, publicity and similar rights of any type under the laws or regulations of any governmental, regulatory, or judicial authority, foreign or domestic.
+                <span style='mso-spacerun: yes'>  </span>You<strong><span
+    style='font-family: "Arial","sans-serif"'> </span></strong><strong><span
+        style='font-family: "Arial","sans-serif"; font-weight: normal'>retain all of your
+ownership rights in and to your </span></strong>User Submissions.<b><span
+    style='mso-spacerun: yes'>  </span>
+    <o:p></o:p>
+</b>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 0in 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>15.3.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>License to User Submissions</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>.<span
+                    style='mso-spacerun: yes'>  </span>By submitting the User Submissions to PowerYourRental, you hereby grant PowerYourRental a worldwide, irrevocable, non-exclusive, royalty-free, perpetual, sublicenseable and transferable license to use, reproduce, distribute, prepare derivative works of display, and perform the User Submissions in connection with the Service and PowerYourRental's business, including without limitation for redistributing part or all of your User Submissions (and derivative works thereof) in any media formats and through any media channels and, and you hereby waive any moral rights in your User Submissions, to the extent permitted by law.<span style='mso-spacerun: yes'>  </span>You also hereby grant each user of the Service or other viewer or user of the User Submission a non-exclusive right to use, reproduce, distribute, prepare derivative works of, display and perform such User Submissions, all in accordance with these Terms.
+                <o:p></o:p>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 0in 28.35pt'>
+                <![if !supportLists]><strong><span
+            style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial; font-weight: normal'><span style='mso-list: Ignore'>15.4.<span
+                style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></strong>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Prohibited
+Content</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>.<strong><span
+    style='font-family: "Arial","sans-serif"; font-weight: normal'><span
+        style='mso-spacerun: yes'>  </span>You agree that you will not display, post, submit, publish, upload or transmit a User Submission that: (i) is unfair or deceptive under the consumer protection laws of any jurisdiction; (ii) is copyrighted, protected by trade secret or otherwise subject to third party proprietary rights, including privacy and publicity rights, unless you are the owner of such rights; (iii) creates a risk to a person’s safety or health, creates a risk to public safety or health, compromises national security, or interferes with an investigation by law enforcement; (iv) impersonates another person; (v) promotes illegal drugs, violates export control laws, relates to illegal gambling, or illegal arms trafficking; (vi) is unlawful, defamatory, libelous, threatening, pornographic, harassing, hateful, racially or ethnically offensive, or encourages conduct that would be considered a criminal offense, gives rise to civil liability, violates any law, or is inappropriate; (vii) involves theft or terrorism; (viii) is otherwise malicious or fraudulent; or (ix) breaches these Terms.
+                <o:p></o:p>
+                </span>
+                </strong>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 0in 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>15.5.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Exposure</span></u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>.<span
+                    style='mso-spacerun: yes'>  </span>You understand and acknowledge that when accessing and using the Service: (i) you will be exposed to User Submissions from a variety of sources, and that PowerYourRental is not responsible for the accuracy, usefulness, safety, or Intellectual Property Rights of, or relating to, such User Submissions; and (ii) you may be exposed to User Submissions that are inaccurate, offensive, indecent, or objectionable.<span style='mso-spacerun: yes'>  </span>You hereby agree to waive, and hereby do waive, any legal or equitable rights or remedies you may have against PowerYourRental with respect to (i) and (ii) herein.<span style='mso-spacerun: yes'>  </span>
+                <o:p></o:p>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 0in 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>15.6.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><span class="apple-style-span"><u><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Spam</span>
+                </u>
+                </span><span class="apple-style-span"><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>.<span
+                        style='mso-spacerun: yes'>  </span>You agree not to, and will not, use the communications systems provided by the Service to send unauthorized commercial communications and you shall be solely responsible and liable for any such unauthorized communications.</span>
+                </span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'><o:p></o:p></span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span class="apple-style-span"><b><span
+            style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span style='mso-list: Ignore'>16.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span>
+                </span>
+                </b>
+                </span>
+                <![endif]><span dir="LTR"></span><b><span
+                style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Information
+Description.</span></b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'><span
+    style='mso-spacerun: yes'>  </span>We attempt to be as accurate as possible.
+                <span style='mso-spacerun: yes'>  </span>However, we cannot and do not warrant that the Content available on the Service is accurate, complete, reliable, current, or error-free.<span style='mso-spacerun: yes'>  </span>We reserve the right to make changes in or to the Content, or any part thereof, in our sole judgment, without the requirement of giving any notice prior to or after making such changes to the Content.<span style='mso-spacerun: yes'> 
+</span>Your use of the Content, or any part thereof, is made solely at your own risk and responsibility.<span class="apple-style-span"><o:p></o:p></span></span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>17.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span></span></b>
+                <![endif]><span dir="LTR"></span><span class="apple-style-span"><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Disclosure</span>
+                </b>
+                </span><a name="_Ref153776021"><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>.</span></b></a><span style='mso-bookmark: _Ref153776021'><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'><span style='mso-spacerun: yes'>  </span>We reserve the right to access, read, preserve, and disclose any information that we obtain in connection with the Service, and your use thereof, as we reasonably believe is necessary to: (i) satisfy any applicable law, regulation, legal process, subpoena or governmental request, (ii) enforce these Terms, including to investigate potential violations of them, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect the rights, property or safety of PowerYourRental, its users or the public.
+                <o:p></o:p>
+                </span>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <span style='mso-bookmark: _Ref153776021'><![if !supportLists]><b><span
+            style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span style='mso-list: Ignore'>18.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span>
+                </span>
+                </b>
+                <![endif]><span dir="LTR"></span><b><span
+                style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Links.</span></b>
+                </span><span style='mso-bookmark: _Ref153776021'><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'><span style='mso-spacerun: yes'>  </span>
+                <o:p></o:p>
+                </span>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <span style='mso-bookmark: _Ref153776021'><![if !supportLists]><span
+            style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span style='mso-list: Ignore'>18.1.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>The Service may contain links, and may
+enable you to post content, to third party websites that are not owned or
+controlled by PowerYourRental.<span style='mso-spacerun: yes'>  </span>We are not affiliated with, have no control over, and assume no responsibility for the content, privacy policies, or practices of, any third party websites. <span style='mso-spacerun: yes'></span>You: (i) are solely responsible and liable for your use of and linking to third party websites and any content that you may send or post to a third party website; and (ii) expressly release PowerYourRental from any and all liability arising from your use of any third party website.<span style='mso-spacerun: yes'>  </span>Accordingly, we encourage you to read the terms and conditions and privacy policy of each third party website that you may choose to visit.
+                <o:p></o:p>
+                </span>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <span style='mso-bookmark: _Ref153776021'><![if !supportLists]><span
+            class="apple-style-span"><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span style='mso-list: Ignore'>18.2.<span
+                style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span>
+                </span>
+                </span>
+                <![endif]><span dir="LTR"></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; color: #222222'>PowerYourRental permits you to link to the Service </span></span><span style='mso-bookmark: _Ref153776021'><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>provided that: (i) you <span class="apple-style-span">link
+to but do not replicate any page on this Service; (ii) the hyperlink text shall
+accurately describe the Content as it appears on the Service; (iii) you shall
+not misrepresent your relationship with PowerYourRental or present any false
+information about PowerYourRental and shall not imply in any way that we are endorsing
+any services or products, unless we have given you our express prior consent;
+(iv) you shall not link from a website that you do not own; (v) your website,
+and domain name, does not contain content that (a) is offensive or
+controversial (both at our discretion), or (b) infringes any intellectual
+property, privacy rights, or other rights of any person or entity; and/or (vi)
+you, and your website, comply with these Terms and applicable law.
+                            <o:p></o:p>
+                        </span></span>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <span style='mso-bookmark: _Ref153776021'><![if !supportLists]><b><span
+            style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span style='mso-list: Ignore'>19.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span>
+                </span>
+                </b>
+                <![endif]><span dir="LTR"></span><b><span
+                style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Advertisements</span></b>
+                </span><span style='mso-bookmark: _Ref153776021'><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>.<span style='mso-spacerun: yes'>  </span>The Service may display advertisements not operated by PowerYourRental.<span style='mso-spacerun: yes'>  </span>We have no control over the content of any advertisements.
+                <span style='mso-spacerun: yes'>  </span>The existence of an advertisement shall not be construed as an endorsement by PowerYourRental of the advertisement or its content.
+                <o:p></o:p>
+                </span>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <span style='mso-bookmark: _Ref153776021'><![if !supportLists]><b><span
+            style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span style='mso-list: Ignore'>20.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span>
+                </span>
+                </b>
+                <![endif]><span dir="LTR"></span><b><span
+                style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Privacy.</span></b>
+                </span><span style='mso-bookmark: _Ref153776021'><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'><span style='mso-spacerun: yes'>  </span>We will use any personal information that we may collect or obtain in connection with the Service in accordance with our privacy policy which is available at</span>
+                </span><a href="http://www.PowerYourRental.com/privacy"><span style='mso-bookmark: _Ref153776021'><span
+        style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>www.PowerYourRental.com/privacy</span></span></a><span style='mso-bookmark: _Ref153776021'><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'> (&quot;<b>Privacy Policy</b>&quot;).<span
+                style='mso-spacerun: yes'>  </span>You agree that we may use personal information that you provide or make available to us in accordance with our Privacy Policy.
+                <o:p></o:p>
+                </span>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <span style='mso-bookmark: _Ref153776021'><![if !supportLists]><b><span
+            style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span style='mso-list: Ignore'>21.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span>
+                </span>
+                </b>
+                <![endif]><span dir="LTR"></span><b><span
+                style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Copyright Policy.</span></b>
+                </span><span style='mso-bookmark: _Ref153776021'><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'><span style='mso-spacerun: yes'>  </span>It is our policy to respect the legitimate rights of copyright owners, and we will respond to clear notices of alleged copyright infringement in accordance with our Copyright Policy which may be viewed at</span>
+                </span><a href="http://www.PowerYourRental.com/copyright"><span style='mso-bookmark: _Ref153776021'><span
+        style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>www.PowerYourRental.com/copyright</span></span></a><span style='mso-bookmark: _Ref153776021'><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'> (&quot;<b>Copyright Policy</b>&quot;).</span></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'><o:p></o:p></span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>22.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span></span></b>
+                <![endif]><span dir="LTR"></span><b><span
+                style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Warranty Disclaimers.</span></b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>
+                    <o:p></o:p>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>22.1.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>This section applies whether or not
+the services provided under the Service are for payment.<span
+    style='mso-spacerun: yes'>  </span>Applicable law may not allow the exclusion of certain warranties, so to that extent certain exclusions set forth herein may not apply.<span style='mso-spacerun: yes'>  </span>THE SERVICE IS PROVIDED ON AN &quot;AS IS&quot; AND &quot;AS AVAILABLE&quot; BASIS, AND WITHOUT WARRANTIES OF ANY KIND EITHER EXPRESS OR IMPLIED.<span style='mso-spacerun: yes'>  </span>PowerYourRental HEREBY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, TITLE, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND THOSE ARISING BY STATUTE OR FROM A COURSE OF DEALING OR USAGE OF TRADE.<span style='mso-spacerun: yes'>  </span>PowerYourRental DOES NOT GUARANTEE THAT THE SERVICE WILL BE FREE OF BUGS, SECURITY BREACHES, OR VIRUS ATTACKS.<span style='mso-spacerun: yes'>  </span>THE SERVICE MAY OCCASIONALLY BE UNAVAILABLE FOR ROUTINE MAINTENANCE, UPGRADING, OR OTHER REASONS.
+                <span style='mso-spacerun: yes'>  </span>YOU AGREE THAT PowerYourRental WILL NOT BE HELD RESPONSIBLE FOR ANY CONSEQUENCES TO YOU OR ANY THIRD PARTY THAT MAY RESULT FROM TECHNICAL PROBLEMS OF THE INTERNET, SLOW CONNECTIONS, TRAFFIC CONGESTION OR OVERLOAD OF OUR OR OTHER SERVERS.<span style='mso-spacerun: yes'> 
+</span>WE DO NOT WARRANT, ENDORSE OR GUARANTEE ANY CONTENT, PRODUCT, OR SERVICE THAT IS FEATURED OR ADVERTISED ON THE SERVICE BY A THIRD PARTY.<span style='mso-spacerun: yes'>     </span>
+                <o:p></o:p>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>22.2.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>PowerYourRental DOES NOT WARRANT, ENDORSE OR
+GUARANTEE ANY CONTENT THAT APPEARS IN A USER SUBMISSION, AND DOES NOT MAKE ANY
+REPRESENTATION OR WARRANTY WITH RESPECT TO, AND DISCLAIMS ALL LIABILITY FOR,
+ANY SUCH CONTENT.<span style='mso-spacerun: yes'>  </span>
+                <o:p></o:p>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>22.3.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>YOU SPECIFICALLY ACKNOWLEDGE THAT PowerYourRental
+SHALL NOT BE RESPONSIBLE FOR THE USER SUBMISSIONS OR CONDUCT (INCLUDING
+DEFAMATORY, OFFENSIVE, ILLEGAL, OR NEGLIGENT CONDUCT) OF ANY SERVICE USER OR
+OWNER OR HOTEL OR APARTMENT STAFF AND THAT THE RISK OF HARM OR DAMAGE FROM THE
+FOREGOING RESTS ENTIRELY WITH YOU.<span style='mso-spacerun: yes'>  </span>
+                <o:p></o:p>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>22.4.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>YOUR RELIANCE ON, OR USE OF, ANY USER
+SUBMISSION, OR INTERACTION WITH ANY SERVICE USER OR OWNER, IS AT YOUR SOLE
+RISK.<span style='mso-spacerun: yes'>  </span>IF YOU HAVE A DISPUTE WITH ANY SERVICE USER OR OWNER IN CONNECTION WITH THE SERVICE OR ANY USER SUBMISSION OR ANY BOOKING, YOU AGREE THAT PowerYourRental IS NOT LIABLE FOR ANY CLAIMS OR DAMAGES ARISING OUT OF OR CONNECTED WITH SUCH A DISPUTE.<span style='mso-spacerun: yes'>  </span>PowerYourRental RESERVES THE RIGHT, BUT HAS NO OBLIGATION, TO MONITOR ANY SUCH DISPUTE.
+                <o:p></o:p>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level2 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>22.5.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span>
+                </span>
+                <![endif]><span dir="LTR"></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>EXCEPT AS EXPRESSLY STATED IN OUR
+PRIVACY POLICY, PowerYourRental DOES NOT MAKE ANY REPRESENTATIONS, WARRANTIES OR
+CONDITIONS OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE SECURITY OF ANY
+INFORMATION YOU MAY PROVIDE OR ACTIVITIES YOU ENGAGE IN DURING THE COURSE OF
+YOUR USE OF THE SERVICE.<o:p></o:p></span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>23.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span></span></b>
+                <![endif]><span dir="LTR"></span><b><span
+                style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Limitation of
+Liability.</span></b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>
+    <span style='mso-spacerun: yes'></span>TO THE FULLEST EXTENT PERMISSIBLE BY LAW: (i) PowerYourRental SHALL NOT BE LIABLE FOR ANY INDIRECT, EXEMPLARY, SPECIAL, CONSEQUENTIAL, OR INCIDENTAL DAMAGES OF ANY KIND ARISING UNDER THESE TERMS OR OUT OF YOUR USE OF, OR INABILITY TO USE, THE SERVICE, EVEN IF PowerYourRental HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, and (ii) IN NO EVENT SHALL THE AGGREGATE LIABILITY OF PowerYourRental FOR ANY DAMAGES ARISING UNDER THESE TERMS OR OUT OF YOUR USE OF, OR INABILITY TO USE, THE SERVICE EXCEED THE TOTAL AMOUNT OF FEES, IF ANY, PAID BY YOU TO PowerYourRental FOR USING THE SERVICE DURING THE THREE (3)
+                </span><span style='font-size: 10.0pt; mso-bidi-font-size: 11.0pt; font-family: "Arial","sans-serif"; mso-bidi-font-family: David'>MONTHS</span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'> PRIOR TO BRINGING
+THE CLAIM.<span style='mso-spacerun: yes'>  </span>Some jurisdictions do not allow the limitation or exclusion of liability for incidental or consequential damages, so the above limitations may not apply to you.<b><o:p></o:p></b>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>24.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span></span></b>
+                <![endif]><span dir="LTR"></span><b><span
+                style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Indemnity.</span></b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'><span
+                        style='mso-spacerun: yes'>  </span>You agree to defend, indemnify and hold harmless PowerYourRental and our affiliates, and our respective officers, directors, employees and agents, from and against any and all claims, damages, obligations, losses, liabilities, costs and expenses (including but not limited to attorney's fees) arising from: (i) your use of, or inability to use, the Service; (ii) your User Submissions; (iii) your use of Prospective Guest Data which is not in accordance with applicable law (including without limitation all applicable privacy laws); (iv) your interaction with any Service user, Prospective Guest, Guest, Owner or hotel or vacation rental staff; or (v) your violation of these Terms.<b><o:p></o:p></b>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>25.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span></span></b>
+                <![endif]><span dir="LTR"></span><b><span
+                style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Term and Termination.<span
+                    style='mso-spacerun: yes'>  </span></span></b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>These Terms are effective until terminated by
+PowerYourRental or you.<span style='mso-spacerun: yes'>  </span>PowerYourRental, in its sole discretion, has the right to terminate these Terms and/or your access to the Service, or any part thereof, immediately at any time and with or without cause (including, without any limitation, for a breach of these Terms).<span style='mso-spacerun: yes'>  </span></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>PowerYourRental shall not
+be liable to you or any third party for termination of the Service, or any part
+thereof.</span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'><span
+    style='mso-spacerun: yes'>  </span></span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-language: EN-US'>If you object to
+any term or condition of these Terms, or any subsequent modifications thereto,
+or become dissatisfied with the Service in any way, your only recourse is to
+immediately discontinue use of the Service.</span><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'><span style='mso-spacerun: yes'>  </span>Upon termination of these Terms, you shall cease all use of the Service.<b><span
+    style='mso-spacerun: yes'>  </span></b>This Section 25 and Sections 14 (Intellectual Property Rights), 15.3 (License to User Submissions), 20 (Privacy), 22 (Warranty Disclaimers), 23 (Limitation of Liability), 24 (Indemnity), 26 (Independent Contractors) to 29 (General) shall survive termination of these Terms.<b><o:p></o:p></b>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>26.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span></span></b>
+                <![endif]><span dir="LTR"></span><b><span
+                style='font-size: 10.0pt; mso-bidi-font-size: 11.0pt; font-family: "Arial","sans-serif"'>Independent
+Contractors.</span></b><span style='font-size: 10.0pt; mso-bidi-font-size: 11.0pt; font-family: "Arial","sans-serif"'><span style='mso-spacerun: yes'>  </span>You and PowerYourRental are independent contractors.<span style='mso-spacerun: yes'> 
+</span>Nothing in these Terms creates a partnership, joint venture, agency, or employment relationship between you and PowerYourRental.<span style='mso-spacerun: yes'>  </span>You must not under any circumstances make, or undertake, any warranties, representations, commitments or obligations on behalf of PowerYourRental.</span><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'><o:p></o:p></span></b>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>27.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span></span></b>
+                <![endif]><span dir="LTR"></span><b><span
+                style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Assignment.<span
+                    style='mso-spacerun: yes'>  </span></span></b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>These Terms, and any rights and licenses
+granted hereunder, may not be transferred or assigned by you but may be
+assigned by PowerYourRental without restriction or notification to you. <b>
+    <o:p></o:p>
+</b></span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>28.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span></span></b>
+                <![endif]><span dir="LTR"></span><b><span
+                style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Governing Law and
+Disputes.<span style='mso-spacerun: yes'>  </span></span></b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>These Terms and the
+relationship between you and PowerYourRental shall be governed by and construed in
+accordance with the laws of the State of Israel, without regard to its
+principles of conflict of laws.<span style='mso-spacerun: yes'>  </span>You agree to submit to the personal and exclusive jurisdiction of the courts located in Tel Aviv-Jaffa and waive any jurisdictional, venue, or inconvenient forum objections to such courts, provided that PowerYourRental may seek injunctive relief in any court of competent jurisdiction.<span style='mso-spacerun: yes'> 
+</span><b>
+    <o:p></o:p>
+</b>
+                </span>
+            </p>
+
+            <p class="MsoNormal" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 28.35pt; text-indent: -28.35pt; line-height: 12.0pt; mso-list: l13 level1 lfo12; tab-stops: list 28.35pt'>
+                <![if !supportLists]><b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"; mso-fareast-font-family: Arial'><span
+            style='mso-list: Ignore'>29.<span style='font: 7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span></span></b>
+                <![endif]><span dir="LTR"></span><b><span
+                style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>General.<span
+                    style='mso-spacerun: yes'>  </span></span></b><span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>PowerYourRental reserves the right to discontinue or
+modify any aspect of the Service at any time.<span style='mso-spacerun: yes'> 
+</span>These Terms shall constitute the entire agreement between you and PowerYourRental concerning the Service.<span style='mso-spacerun: yes'>  </span>If any provision of these Terms is deemed invalid by a court of competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of these Terms, which shall remain in full force and effect.<span style='mso-spacerun: yes'>  </span>No waiver of any term of these Terms shall be deemed a further or continuing waiver of such term or any other term, and a party's failure to assert any right or provision under these Terms shall not constitute a waiver of such right or provision. <span style='mso-spacerun: yes'></span>YOU AGREE THAT ANY CAUSE OF ACTION THAT YOU MAY HAVE ARISING OUT OF OR RELATED TO THE SERVICE MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES.<span style='mso-spacerun: yes'>  </span>OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.<b><o:p></o:p></b>
+                </span>
+            </p>
+
+
+            <p class="Text1" style='margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: 0in; text-indent: 28.35pt; line-height: 12.0pt'>
+                <span style='font-size: 10.0pt; font-family: "Arial","sans-serif"'>Last updated: 20 May 2014<o:p></o:p></span>
+            </p>
+
+        </div>
+
+
+
+        <!---------footer nav------------>
+        <div class="bottom-nav">
+            <div class="navbar navbar-inverse">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse2">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+                    <div class="navbar-collapse navbar-collapse2 collapse">
+                        <ul class="nav navbar-nav">
+                            <li><a class="bscroll" href="index.html#template">Templates</a>
+                            </li>
+                            <li><a class="bscroll" href="index.html#feature">Features</a>
+                            </li>
+                            <li><a class="bscroll" href="index.html#why-us">Why Us</a>
+                            </li>
+                            <li><a class="bscroll" href="index.html#customer">Testimonials</a>
+                            </li>
+                            <li><a class="bscroll" href="index.html#pricing">Pricing</a>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">English<b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="#">Espanol</a>
+                                    </li>
+                                    <li><a href="#">Portuguese</a>
+                                    </li>
+                                    <li><a href="#">Chinese</a>
+                                    </li>
+                                    <li><a href="#">Francais</a>
+                                    </li>
+                                    <li><a href="#">Deutsch</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!------------footer---------------->
+    <div class="footer">
+        <div class="container">
+            <div class="footer-logo">
+                <img src="img/biz-logo.png" alt="">
+            </div>
+            <div class="footer-nav">
+                <ul>
+                    <li><a href="terms.html">Terms of Use</a>
+                    </li>
+                    <li><a href="privacy.html">Privacy Policy</a>
+                    </li>
+                    <!--<li><a href="#">About Us</a></li>-->
+                    <li class="social-icon">
+                        <a href="https://www.facebook.com/PowerYourRental" target="_blank">
+                            <img src="img/fb-icon.png" alt="">
+                        </a>
+                        <!--<a href="#">
+                            <img src="img/twitter-icon.png" alt=""></a>
+                        <a href="#">
+                            <img src="img/link-in.png" alt=""></a>-->
+                    </li>
+                </ul>
+            </div>
+            <div class="copyright">
+                <p>Copyright &copy;2014 All Rights Reserved</p>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+    <script defer src="js/jquery.flexslider.js"></script>
+    <script type="text/javascript" src="slick/slick.min.js"></script>
+    <script type="text/javascript" src="bootstrap/js/bootstrap.js"></script>
+    <script type=text/javascript src="js/bootstrap-lightbox.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.bootstrapvalidator/0.5.0/js/bootstrapValidator.min.js"></script>
+    <script type="text/javascript" src="js/init.js"></script>
+    <script type="text/javascript" src="js/signup.js"></script>
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-38563080-4', 'auto');
+        ga('send', 'pageview');
+    </script>
+</body>
+
+</html>
