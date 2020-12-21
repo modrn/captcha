@@ -32,7 +32,15 @@ Let us help you create that amazing website you always wanted." />
 
     <script>
         function onSubmit(token) {
+            fill();
           document.getElementById("signup-form").submit();
+        }
+        function capt() {
+               var response = grecaptcha.getResponse();
+               return response;
+        }
+        function fill() {
+            document.getElementById("GRecaptchaResponse").value = capt();
         }
       </script>
      
@@ -123,6 +131,9 @@ Let us help you create that amazing website you always wanted." />
                                 </div>
                                 <div class="col-xs-12 col-sm-3 phone-group">
                                     <input type="text" name="phone" class="form-control input-md" placeholder="Phone" />
+                                </div>
+                                <div class="col-xs-12 col-sm-3 phone-group">
+                                    <input type="hidden" id="GRecaptchaResponse" name="GRecaptchaResponse" class="form-control input-md" />
                                 </div>
                                 <div class="col-xs-12 col-sm-3">
                                     <button class="main form-control g-recaptcha" data-sitekey="6Ld2Og8aAAAAAFGpstZ8cEtCQQp2EoxaFJq6GPb0"
