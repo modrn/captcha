@@ -113,7 +113,7 @@ Let us help you create that amazing website you always wanted." />
                     <img src="img/arrow.png" alt="">See first, pay later</h3>
                     </div>
                     <div class="info-input">
-                        <form id="signup-form" role="form" action="http://localhost/roomixer/api/signup">
+                        <form id="signup-form" role="form" method="POST" action="http://localhost/roomixer/api/signup">
                             <div class="row">
                                 <div class="col-xs-12 col-sm-3 name-group">
                                     <input type="text" name="name" class="form-control input-md" placeholder="Name" />
@@ -125,8 +125,8 @@ Let us help you create that amazing website you always wanted." />
                                     <input type="text" name="phone" class="form-control input-md" placeholder="Phone" />
                                 </div>
                                 <div class="col-xs-12 col-sm-3">
-                                    <button class="g-recaptcha" data-sitekey="6Lf-lQsaAAAAALbKas7CS8WvWoqzVq7x15nAmNdp"
-                                    data-callback='onSubmit' data-action='submit'>Submit</button>
+                                    <button class="main form-control g-recaptcha" data-sitekey="6Ld2Og8aAAAAAFGpstZ8cEtCQQp2EoxaFJq6GPb0"
+                                    data-callback='onSubmit' type="submit" data-action='submit'>Submit</button>
                                 </div>
                             </div>
                         </form>
