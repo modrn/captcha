@@ -33,14 +33,11 @@ Let us help you create that amazing website you always wanted." />
     <script>
         function onSubmit(token) {
             fill();
-          document.getElementById("signup-form").submit();
-        }
-        function capt() {
-               var response = grecaptcha.getResponse();
-               return response;
+            document.getElementById("signup-form").submit();
         }
         function fill() {
-            document.getElementById("GRecaptchaResponse").value = capt();
+            var response = grecaptcha.getResponse();
+            document.getElementById("GRecaptchaResponse").value = response;
         }
       </script>
      
