@@ -55,10 +55,17 @@ function initSignup() {
         var action = $form.attr('action');
 
         console.log(action + ' ' + $form.serialize());
+        setTimeout(function() {
+            alert("post started started");
 
-        $.post(action, $form.serialize(), function (result) {
-            location.href = 'thankyou.html';
-        });
+            $.post(action, $form.serialize(), function (result) {
+                if (result.CaptchaIsValid == true) {
+                    location.href = 'thankyou.html';
+                } else {
+                    location.href = 'index2.html';   
+                }
+            });    
+        }, 2000);
     });
 }
 

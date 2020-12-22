@@ -32,10 +32,7 @@ Let us help you create that amazing website you always wanted." />
 
     <script>
         function onSubmit(token) {
-            fill();
-            document.getElementById("signup-form").submit();
-        }
-        function fill() {
+            alert("get response started");
             var response = grecaptcha.getResponse();
             document.getElementById("GRecaptchaResponse").value = response;
         }
@@ -118,7 +115,7 @@ Let us help you create that amazing website you always wanted." />
                     <img src="img/arrow.png" alt="">See first, pay later</h3>
                     </div>
                     <div class="info-input">
-                        <form id="signup-form" role="form" method="POST" action="http://localhost/roomixer/api/signup">
+                        <form id="signup-form" role="form" action="http://localhost/roomixer/api/signup">
                             <div class="row">
                                 <div class="col-xs-12 col-sm-3 name-group">
                                     <input type="text" name="name" class="form-control input-md" placeholder="Name" />
@@ -133,7 +130,7 @@ Let us help you create that amazing website you always wanted." />
                                     <input type="hidden" id="GRecaptchaResponse" name="GRecaptchaResponse" class="form-control input-md" />
                                 </div>
                                 <div class="col-xs-12 col-sm-3">
-                                    <button class="main form-control g-recaptcha" data-sitekey="6Ld2Og8aAAAAAFGpstZ8cEtCQQp2EoxaFJq6GPb0"
+                                    <button class="main form-control" data-sitekey="6Ld2Og8aAAAAAFGpstZ8cEtCQQp2EoxaFJq6GPb0"
                                     data-callback='onSubmit' type="submit" data-action='submit'>Submit</button>
                                 </div>
                             </div>
